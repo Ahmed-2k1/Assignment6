@@ -1,0 +1,904 @@
+2024-10-17 14:26:46,104 - root - INFO - Logging configured.
+2024-10-17 14:26:46,104 - root - INFO - Environment variables loaded.
+2024-10-17 14:26:46,106 - root - INFO - Logging configured.
+2024-10-17 14:26:46,107 - root - INFO - Environment variables loaded.
+2024-10-17 14:26:46,108 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:26:46,108 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:26:46,108 - root - INFO - Application exit.
+2024-10-17 14:26:46,108 - root - INFO - Application shutdown.
+2024-10-17 14:26:46,110 - root - INFO - Logging configured.
+2024-10-17 14:26:46,111 - root - INFO - Environment variables loaded.
+2024-10-17 14:26:46,111 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:26:46,111 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:26:46,111 - root - INFO - Application exit.
+2024-10-17 14:26:46,111 - root - INFO - Application shutdown.
+2024-10-17 14:26:46,113 - root - INFO - Logging configured.
+2024-10-17 14:26:46,114 - root - INFO - Environment variables loaded.
+2024-10-17 14:26:46,114 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:26:46,114 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:26:46,114 - root - INFO - Hello, World!
+2024-10-17 14:26:46,114 - root - INFO - Application exit.
+2024-10-17 14:26:46,114 - root - INFO - Application shutdown.
+2024-10-17 14:26:58,217 - root - INFO - Logging configured.
+2024-10-17 14:26:58,218 - root - INFO - Environment variables loaded.
+2024-10-17 14:26:58,220 - root - INFO - Logging configured.
+2024-10-17 14:26:58,220 - root - INFO - Environment variables loaded.
+2024-10-17 14:26:58,221 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:26:58,221 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:26:58,222 - root - INFO - Application exit.
+2024-10-17 14:26:58,222 - root - INFO - Application shutdown.
+2024-10-17 14:26:58,225 - root - INFO - Logging configured.
+2024-10-17 14:26:58,226 - root - INFO - Environment variables loaded.
+2024-10-17 14:26:58,226 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:26:58,226 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:26:58,226 - root - INFO - Application exit.
+2024-10-17 14:26:58,226 - root - INFO - Application shutdown.
+2024-10-17 14:26:58,230 - root - INFO - Logging configured.
+2024-10-17 14:26:58,230 - root - INFO - Environment variables loaded.
+2024-10-17 14:26:58,230 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:26:58,230 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:26:58,230 - root - INFO - Hello, World!
+2024-10-17 14:26:58,230 - root - INFO - Application exit.
+2024-10-17 14:26:58,230 - root - INFO - Application shutdown.
+2024-10-17 14:27:17,015 - root - INFO - Logging configured.
+2024-10-17 14:27:17,016 - root - INFO - Environment variables loaded.
+2024-10-17 14:27:17,019 - root - INFO - Logging configured.
+2024-10-17 14:27:17,020 - root - INFO - Environment variables loaded.
+2024-10-17 14:27:17,021 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:27:17,021 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:27:17,021 - root - INFO - Application exit.
+2024-10-17 14:27:17,021 - root - INFO - Application shutdown.
+2024-10-17 14:27:17,024 - root - INFO - Logging configured.
+2024-10-17 14:27:17,024 - root - INFO - Environment variables loaded.
+2024-10-17 14:27:17,025 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:27:17,025 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:27:17,025 - root - INFO - Application exit.
+2024-10-17 14:27:17,025 - root - INFO - Application shutdown.
+2024-10-17 14:27:17,028 - root - INFO - Logging configured.
+2024-10-17 14:27:17,028 - root - INFO - Environment variables loaded.
+2024-10-17 14:27:17,028 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:27:17,028 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:27:17,029 - root - INFO - Hello, World!
+2024-10-17 14:27:17,029 - root - INFO - Application exit.
+2024-10-17 14:27:17,029 - root - INFO - Application shutdown.
+2024-10-17 14:27:52,999 - root - INFO - Logging configured.
+2024-10-17 14:27:52,999 - root - INFO - Environment variables loaded.
+2024-10-17 14:27:53,005 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:27:53,005 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:28:58,683 - root - INFO - Application exit.
+2024-10-17 14:28:58,684 - root - INFO - Application shutdown.
+2024-10-17 14:29:07,942 - root - INFO - Logging configured.
+2024-10-17 14:29:07,942 - root - INFO - Environment variables loaded.
+2024-10-17 14:29:07,944 - root - INFO - Logging configured.
+2024-10-17 14:29:07,944 - root - INFO - Environment variables loaded.
+2024-10-17 14:29:07,945 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:29:07,945 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:29:07,945 - root - INFO - Application exit.
+2024-10-17 14:29:07,945 - root - INFO - Application shutdown.
+2024-10-17 14:29:07,949 - root - INFO - Logging configured.
+2024-10-17 14:29:07,950 - root - INFO - Environment variables loaded.
+2024-10-17 14:29:07,950 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:29:07,950 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:29:07,950 - root - INFO - Application exit.
+2024-10-17 14:29:07,950 - root - INFO - Application shutdown.
+2024-10-17 14:29:07,952 - root - INFO - Logging configured.
+2024-10-17 14:29:07,953 - root - INFO - Environment variables loaded.
+2024-10-17 14:29:07,953 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:29:07,953 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:29:07,953 - root - INFO - Hello, World!
+2024-10-17 14:29:07,953 - root - INFO - Application exit.
+2024-10-17 14:29:07,953 - root - INFO - Application shutdown.
+2024-10-17 14:29:12,546 - root - INFO - Logging configured.
+2024-10-17 14:29:12,546 - root - INFO - Environment variables loaded.
+2024-10-17 14:29:12,549 - root - INFO - Logging configured.
+2024-10-17 14:29:12,549 - root - INFO - Environment variables loaded.
+2024-10-17 14:29:12,550 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:29:12,550 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:29:12,550 - root - INFO - Application exit.
+2024-10-17 14:29:12,550 - root - INFO - Application shutdown.
+2024-10-17 14:29:12,552 - root - INFO - Logging configured.
+2024-10-17 14:29:12,553 - root - INFO - Environment variables loaded.
+2024-10-17 14:29:12,553 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:29:12,553 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:29:12,553 - root - INFO - Application exit.
+2024-10-17 14:29:12,553 - root - INFO - Application shutdown.
+2024-10-17 14:29:12,556 - root - INFO - Logging configured.
+2024-10-17 14:29:12,556 - root - INFO - Environment variables loaded.
+2024-10-17 14:29:12,556 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:29:12,556 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:29:12,556 - root - INFO - Hello, World!
+2024-10-17 14:29:12,556 - root - INFO - Application exit.
+2024-10-17 14:29:12,556 - root - INFO - Application shutdown.
+2024-10-17 14:45:26,852 - root - INFO - Logging configured.
+2024-10-17 14:45:26,853 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:26,855 - root - INFO - Logging configured.
+2024-10-17 14:45:26,855 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:26,856 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:45:26,856 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:45:26,856 - root - INFO - Application exit.
+2024-10-17 14:45:26,856 - root - INFO - Application shutdown.
+2024-10-17 14:45:26,859 - root - INFO - Logging configured.
+2024-10-17 14:45:26,860 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:26,860 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:45:26,860 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:45:26,860 - root - INFO - Application exit.
+2024-10-17 14:45:26,860 - root - INFO - Application shutdown.
+2024-10-17 14:45:26,862 - root - INFO - Logging configured.
+2024-10-17 14:45:26,863 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:26,863 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:45:26,863 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:45:26,863 - root - INFO - Hello, World!
+2024-10-17 14:45:26,863 - root - INFO - Application exit.
+2024-10-17 14:45:26,863 - root - INFO - Application shutdown.
+2024-10-17 14:45:33,324 - root - INFO - Logging configured.
+2024-10-17 14:45:33,324 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:33,326 - root - INFO - Logging configured.
+2024-10-17 14:45:33,327 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:33,327 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:45:33,327 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:45:33,327 - root - INFO - Application exit.
+2024-10-17 14:45:33,327 - root - INFO - Application shutdown.
+2024-10-17 14:45:33,330 - root - INFO - Logging configured.
+2024-10-17 14:45:33,330 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:33,330 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:45:33,330 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:45:33,330 - root - INFO - Application exit.
+2024-10-17 14:45:33,330 - root - INFO - Application shutdown.
+2024-10-17 14:45:33,333 - root - INFO - Logging configured.
+2024-10-17 14:45:33,333 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:33,333 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:45:33,333 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:45:33,333 - root - INFO - Hello, World!
+2024-10-17 14:45:33,333 - root - INFO - Application exit.
+2024-10-17 14:45:33,334 - root - INFO - Application shutdown.
+2024-10-17 14:45:39,449 - root - INFO - Logging configured.
+2024-10-17 14:45:39,449 - root - INFO - Environment variables loaded.
+2024-10-17 14:45:39,454 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:45:39,454 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:45:50,450 - root - INFO - Application exit.
+2024-10-17 14:45:50,451 - root - INFO - Application shutdown.
+2024-10-17 14:52:46,944 - root - INFO - Logging configured.
+2024-10-17 14:52:46,945 - root - INFO - Environment variables loaded.
+2024-10-17 14:52:46,948 - root - INFO - Logging configured.
+2024-10-17 14:52:46,948 - root - INFO - Environment variables loaded.
+2024-10-17 14:52:46,949 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:52:46,949 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:52:46,949 - root - INFO - Application exit.
+2024-10-17 14:52:46,949 - root - INFO - Application shutdown.
+2024-10-17 14:52:46,952 - root - INFO - Logging configured.
+2024-10-17 14:52:46,952 - root - INFO - Environment variables loaded.
+2024-10-17 14:52:46,952 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:52:46,952 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:52:46,952 - root - INFO - Application exit.
+2024-10-17 14:52:46,952 - root - INFO - Application shutdown.
+2024-10-17 14:52:46,956 - root - INFO - Logging configured.
+2024-10-17 14:52:46,956 - root - INFO - Environment variables loaded.
+2024-10-17 14:52:46,956 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:52:46,956 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:52:46,956 - root - INFO - Hello, World!
+2024-10-17 14:52:46,956 - root - INFO - Application exit.
+2024-10-17 14:52:46,956 - root - INFO - Application shutdown.
+2024-10-17 14:54:25,375 - root - INFO - Logging configured.
+2024-10-17 14:54:25,376 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:25,382 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:54:25,382 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:54:29,960 - root - INFO - Application exit.
+2024-10-17 14:54:29,961 - root - INFO - Application shutdown.
+2024-10-17 14:54:34,336 - root - INFO - Logging configured.
+2024-10-17 14:54:34,336 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:34,339 - root - INFO - Logging configured.
+2024-10-17 14:54:34,339 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:34,340 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:54:34,340 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:54:34,340 - root - INFO - Application exit.
+2024-10-17 14:54:34,340 - root - INFO - Application shutdown.
+2024-10-17 14:54:34,342 - root - INFO - Logging configured.
+2024-10-17 14:54:34,342 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:34,343 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:54:34,343 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:54:34,343 - root - INFO - Application exit.
+2024-10-17 14:54:34,343 - root - INFO - Application shutdown.
+2024-10-17 14:54:34,345 - root - INFO - Logging configured.
+2024-10-17 14:54:34,345 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:34,346 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:54:34,346 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:54:34,346 - root - INFO - Hello, World!
+2024-10-17 14:54:34,346 - root - INFO - Application exit.
+2024-10-17 14:54:34,346 - root - INFO - Application shutdown.
+2024-10-17 14:54:41,516 - root - INFO - Logging configured.
+2024-10-17 14:54:41,516 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:41,518 - root - INFO - Logging configured.
+2024-10-17 14:54:41,518 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:41,519 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:54:41,519 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:54:41,519 - root - INFO - Application exit.
+2024-10-17 14:54:41,519 - root - INFO - Application shutdown.
+2024-10-17 14:54:41,522 - root - INFO - Logging configured.
+2024-10-17 14:54:41,522 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:41,522 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:54:41,522 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:54:41,522 - root - INFO - Application exit.
+2024-10-17 14:54:41,522 - root - INFO - Application shutdown.
+2024-10-17 14:54:41,525 - root - INFO - Logging configured.
+2024-10-17 14:54:41,525 - root - INFO - Environment variables loaded.
+2024-10-17 14:54:41,525 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:54:41,525 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:54:41,525 - root - INFO - Hello, World!
+2024-10-17 14:54:41,526 - root - INFO - Application exit.
+2024-10-17 14:54:41,526 - root - INFO - Application shutdown.
+2024-10-17 14:57:25,415 - root - INFO - Logging configured.
+2024-10-17 14:57:25,416 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:25,418 - root - INFO - Logging configured.
+2024-10-17 14:57:25,419 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:25,420 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:25,420 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:25,420 - root - INFO - Application exit.
+2024-10-17 14:57:25,420 - root - INFO - Application shutdown.
+2024-10-17 14:57:25,422 - root - INFO - Logging configured.
+2024-10-17 14:57:25,422 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:25,423 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:25,423 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:25,423 - root - INFO - Application exit.
+2024-10-17 14:57:25,423 - root - INFO - Application shutdown.
+2024-10-17 14:57:25,425 - root - INFO - Logging configured.
+2024-10-17 14:57:25,425 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:25,425 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:25,425 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:25,425 - root - INFO - Hello, World!
+2024-10-17 14:57:25,426 - root - INFO - Application exit.
+2024-10-17 14:57:25,426 - root - INFO - Application shutdown.
+2024-10-17 14:57:30,223 - root - INFO - Logging configured.
+2024-10-17 14:57:30,223 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:30,226 - root - INFO - Logging configured.
+2024-10-17 14:57:30,226 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:30,226 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:30,226 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:30,227 - root - INFO - Application exit.
+2024-10-17 14:57:30,227 - root - INFO - Application shutdown.
+2024-10-17 14:57:30,229 - root - INFO - Logging configured.
+2024-10-17 14:57:30,229 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:30,229 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:30,230 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:30,230 - root - INFO - Application exit.
+2024-10-17 14:57:30,230 - root - INFO - Application shutdown.
+2024-10-17 14:57:30,233 - root - INFO - Logging configured.
+2024-10-17 14:57:30,233 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:30,233 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:30,234 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:30,234 - root - INFO - Hello, World!
+2024-10-17 14:57:30,234 - root - INFO - Application exit.
+2024-10-17 14:57:30,234 - root - INFO - Application shutdown.
+2024-10-17 14:57:52,591 - root - INFO - Logging configured.
+2024-10-17 14:57:52,592 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:52,594 - root - INFO - Logging configured.
+2024-10-17 14:57:52,594 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:52,595 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:52,595 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:52,595 - root - INFO - Application exit.
+2024-10-17 14:57:52,595 - root - INFO - Application shutdown.
+2024-10-17 14:57:52,598 - root - INFO - Logging configured.
+2024-10-17 14:57:52,598 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:52,598 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:52,598 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:52,598 - root - INFO - Application exit.
+2024-10-17 14:57:52,598 - root - INFO - Application shutdown.
+2024-10-17 14:57:52,602 - root - INFO - Logging configured.
+2024-10-17 14:57:52,602 - root - INFO - Environment variables loaded.
+2024-10-17 14:57:52,602 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:57:52,602 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:57:52,602 - root - INFO - Hello, World!
+2024-10-17 14:57:52,602 - root - INFO - Application exit.
+2024-10-17 14:57:52,602 - root - INFO - Application shutdown.
+2024-10-17 14:58:07,787 - root - INFO - Logging configured.
+2024-10-17 14:58:07,788 - root - INFO - Environment variables loaded.
+2024-10-17 14:58:07,790 - root - INFO - Logging configured.
+2024-10-17 14:58:07,790 - root - INFO - Environment variables loaded.
+2024-10-17 14:58:07,791 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:58:07,791 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:58:07,791 - root - INFO - Application exit.
+2024-10-17 14:58:07,791 - root - INFO - Application shutdown.
+2024-10-17 14:58:07,794 - root - INFO - Logging configured.
+2024-10-17 14:58:07,794 - root - INFO - Environment variables loaded.
+2024-10-17 14:58:07,794 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:58:07,794 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:58:07,794 - root - INFO - Application exit.
+2024-10-17 14:58:07,794 - root - INFO - Application shutdown.
+2024-10-17 14:58:07,797 - root - INFO - Logging configured.
+2024-10-17 14:58:07,797 - root - INFO - Environment variables loaded.
+2024-10-17 14:58:07,797 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:58:07,797 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:58:07,798 - root - INFO - Hello, World!
+2024-10-17 14:58:07,798 - root - INFO - Application exit.
+2024-10-17 14:58:07,798 - root - INFO - Application shutdown.
+2024-10-17 14:59:46,378 - root - INFO - Logging configured.
+2024-10-17 14:59:46,378 - root - INFO - Environment variables loaded.
+2024-10-17 14:59:46,380 - root - INFO - Logging configured.
+2024-10-17 14:59:46,381 - root - INFO - Environment variables loaded.
+2024-10-17 14:59:46,382 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:59:46,382 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:59:46,382 - root - INFO - Application exit.
+2024-10-17 14:59:46,382 - root - INFO - Application shutdown.
+2024-10-17 14:59:46,385 - root - INFO - Logging configured.
+2024-10-17 14:59:46,385 - root - INFO - Environment variables loaded.
+2024-10-17 14:59:46,385 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:59:46,385 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:59:46,385 - root - INFO - Application exit.
+2024-10-17 14:59:46,385 - root - INFO - Application shutdown.
+2024-10-17 14:59:46,388 - root - INFO - Logging configured.
+2024-10-17 14:59:46,388 - root - INFO - Environment variables loaded.
+2024-10-17 14:59:46,389 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 14:59:46,389 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 14:59:46,389 - root - INFO - Hello, World!
+2024-10-17 14:59:46,389 - root - INFO - Application exit.
+2024-10-17 14:59:46,389 - root - INFO - Application shutdown.
+2024-10-17 15:01:23,355 - root - INFO - Logging configured.
+2024-10-17 15:01:23,355 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:23,357 - root - INFO - Logging configured.
+2024-10-17 15:01:23,358 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:23,358 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:23,359 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:23,359 - root - INFO - Application exit.
+2024-10-17 15:01:23,359 - root - INFO - Application shutdown.
+2024-10-17 15:01:23,361 - root - INFO - Logging configured.
+2024-10-17 15:01:23,361 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:23,362 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:23,362 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:23,362 - root - INFO - Application exit.
+2024-10-17 15:01:23,362 - root - INFO - Application shutdown.
+2024-10-17 15:01:23,365 - root - INFO - Logging configured.
+2024-10-17 15:01:23,365 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:23,365 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:23,365 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:23,365 - root - INFO - Hello, World!
+2024-10-17 15:01:23,365 - root - INFO - Application exit.
+2024-10-17 15:01:23,365 - root - INFO - Application shutdown.
+2024-10-17 15:01:26,300 - root - INFO - Logging configured.
+2024-10-17 15:01:26,301 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:26,303 - root - INFO - Logging configured.
+2024-10-17 15:01:26,303 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:26,304 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:26,304 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:26,304 - root - INFO - Application exit.
+2024-10-17 15:01:26,304 - root - INFO - Application shutdown.
+2024-10-17 15:01:26,306 - root - INFO - Logging configured.
+2024-10-17 15:01:26,307 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:26,307 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:26,307 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:26,307 - root - INFO - Application exit.
+2024-10-17 15:01:26,307 - root - INFO - Application shutdown.
+2024-10-17 15:01:26,310 - root - INFO - Logging configured.
+2024-10-17 15:01:26,310 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:26,310 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:26,310 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:26,311 - root - INFO - Hello, World!
+2024-10-17 15:01:26,311 - root - INFO - Application exit.
+2024-10-17 15:01:26,311 - root - INFO - Application shutdown.
+2024-10-17 15:01:55,966 - root - INFO - Logging configured.
+2024-10-17 15:01:55,966 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:55,969 - root - INFO - Logging configured.
+2024-10-17 15:01:55,969 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:55,970 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:55,970 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:55,970 - root - INFO - Application exit.
+2024-10-17 15:01:55,970 - root - INFO - Application shutdown.
+2024-10-17 15:01:55,972 - root - INFO - Logging configured.
+2024-10-17 15:01:55,972 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:55,973 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:55,973 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:55,973 - root - INFO - Application exit.
+2024-10-17 15:01:55,973 - root - INFO - Application shutdown.
+2024-10-17 15:01:55,976 - root - INFO - Logging configured.
+2024-10-17 15:01:55,976 - root - INFO - Environment variables loaded.
+2024-10-17 15:01:55,976 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:01:55,976 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:01:55,976 - root - INFO - Hello, World!
+2024-10-17 15:01:55,976 - root - INFO - Application exit.
+2024-10-17 15:01:55,976 - root - INFO - Application shutdown.
+2024-10-17 15:02:07,923 - root - INFO - Logging configured.
+2024-10-17 15:02:07,924 - root - INFO - Environment variables loaded.
+2024-10-17 15:02:07,926 - root - INFO - Logging configured.
+2024-10-17 15:02:07,926 - root - INFO - Environment variables loaded.
+2024-10-17 15:02:07,927 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:02:07,927 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:02:07,927 - root - INFO - Application exit.
+2024-10-17 15:02:07,927 - root - INFO - Application shutdown.
+2024-10-17 15:02:07,930 - root - INFO - Logging configured.
+2024-10-17 15:02:07,930 - root - INFO - Environment variables loaded.
+2024-10-17 15:02:07,931 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:02:07,931 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:02:07,931 - root - INFO - Application exit.
+2024-10-17 15:02:07,931 - root - INFO - Application shutdown.
+2024-10-17 15:02:07,934 - root - INFO - Logging configured.
+2024-10-17 15:02:07,934 - root - INFO - Environment variables loaded.
+2024-10-17 15:02:07,934 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:02:07,934 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:02:07,934 - root - INFO - Hello, World!
+2024-10-17 15:02:07,934 - root - INFO - Application exit.
+2024-10-17 15:02:07,934 - root - INFO - Application shutdown.
+2024-10-17 15:02:17,921 - root - INFO - Logging configured.
+2024-10-17 15:02:17,921 - root - INFO - Environment variables loaded.
+2024-10-17 15:02:17,925 - root - INFO - Logging configured.
+2024-10-17 15:02:17,925 - root - INFO - Environment variables loaded.
+2024-10-17 15:02:17,926 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:02:17,926 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:02:17,926 - root - INFO - Application exit.
+2024-10-17 15:02:17,926 - root - INFO - Application shutdown.
+2024-10-17 15:02:17,929 - root - INFO - Logging configured.
+2024-10-17 15:02:17,930 - root - INFO - Environment variables loaded.
+2024-10-17 15:02:17,930 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:02:17,930 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:02:17,930 - root - INFO - Application exit.
+2024-10-17 15:02:17,930 - root - INFO - Application shutdown.
+2024-10-17 15:02:17,934 - root - INFO - Logging configured.
+2024-10-17 15:02:17,934 - root - INFO - Environment variables loaded.
+2024-10-17 15:02:17,934 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:02:17,934 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:02:17,935 - root - INFO - Hello, World!
+2024-10-17 15:02:17,935 - root - INFO - Application exit.
+2024-10-17 15:02:17,935 - root - INFO - Application shutdown.
+2024-10-17 15:16:58,318 - root - INFO - Logging configured.
+2024-10-17 15:16:58,319 - root - INFO - Environment variables loaded.
+2024-10-17 15:16:58,321 - root - INFO - Logging configured.
+2024-10-17 15:16:58,322 - root - INFO - Environment variables loaded.
+2024-10-17 15:16:58,323 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:16:58,323 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:16:58,323 - root - INFO - Application exit.
+2024-10-17 15:16:58,323 - root - INFO - Application shutdown.
+2024-10-17 15:16:58,326 - root - INFO - Logging configured.
+2024-10-17 15:16:58,326 - root - INFO - Environment variables loaded.
+2024-10-17 15:16:58,326 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:16:58,326 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:16:58,326 - root - INFO - Application exit.
+2024-10-17 15:16:58,326 - root - INFO - Application shutdown.
+2024-10-17 15:16:58,328 - root - INFO - Logging configured.
+2024-10-17 15:16:58,329 - root - INFO - Environment variables loaded.
+2024-10-17 15:16:58,329 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:16:58,329 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:16:58,329 - root - INFO - Hello, World!
+2024-10-17 15:16:58,329 - root - INFO - Application exit.
+2024-10-17 15:16:58,329 - root - INFO - Application shutdown.
+2024-10-17 15:17:01,955 - root - INFO - Logging configured.
+2024-10-17 15:17:01,956 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:01,958 - root - INFO - Logging configured.
+2024-10-17 15:17:01,958 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:01,958 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:17:01,958 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:17:01,959 - root - INFO - Application exit.
+2024-10-17 15:17:01,959 - root - INFO - Application shutdown.
+2024-10-17 15:17:01,961 - root - INFO - Logging configured.
+2024-10-17 15:17:01,961 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:01,961 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:17:01,961 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:17:01,961 - root - INFO - Application exit.
+2024-10-17 15:17:01,961 - root - INFO - Application shutdown.
+2024-10-17 15:17:01,964 - root - INFO - Logging configured.
+2024-10-17 15:17:01,964 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:01,964 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:17:01,964 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:17:01,965 - root - INFO - Hello, World!
+2024-10-17 15:17:01,965 - root - INFO - Application exit.
+2024-10-17 15:17:01,965 - root - INFO - Application shutdown.
+2024-10-17 15:17:05,195 - root - INFO - Logging configured.
+2024-10-17 15:17:05,196 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:05,199 - root - INFO - Logging configured.
+2024-10-17 15:17:05,199 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:05,200 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:17:05,200 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:17:05,200 - root - INFO - Application exit.
+2024-10-17 15:17:05,200 - root - INFO - Application shutdown.
+2024-10-17 15:17:05,203 - root - INFO - Logging configured.
+2024-10-17 15:17:05,204 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:05,204 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:17:05,204 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:17:05,204 - root - INFO - Application exit.
+2024-10-17 15:17:05,204 - root - INFO - Application shutdown.
+2024-10-17 15:17:05,209 - root - INFO - Logging configured.
+2024-10-17 15:17:05,209 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:05,209 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:17:05,209 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 15:17:05,209 - root - INFO - Hello, World!
+2024-10-17 15:17:05,210 - root - INFO - Application exit.
+2024-10-17 15:17:05,210 - root - INFO - Application shutdown.
+2024-10-17 15:17:11,542 - root - INFO - Logging configured.
+2024-10-17 15:17:11,542 - root - INFO - Environment variables loaded.
+2024-10-17 15:17:11,548 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-17 15:17:11,548 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:14,527 - root - INFO - Logging configured.
+2024-10-18 16:28:14,528 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:14,530 - root - INFO - Logging configured.
+2024-10-18 16:28:14,530 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:14,531 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:14,531 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:14,531 - root - INFO - Application exit.
+2024-10-18 16:28:14,531 - root - INFO - Application shutdown.
+2024-10-18 16:28:14,535 - root - INFO - Logging configured.
+2024-10-18 16:28:14,535 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:14,536 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:14,536 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:14,536 - root - INFO - Application exit.
+2024-10-18 16:28:14,536 - root - INFO - Application shutdown.
+2024-10-18 16:28:14,538 - root - INFO - Logging configured.
+2024-10-18 16:28:14,538 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:14,538 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:14,539 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:14,539 - root - INFO - Hello, World!
+2024-10-18 16:28:14,539 - root - INFO - Application exit.
+2024-10-18 16:28:14,539 - root - INFO - Application shutdown.
+2024-10-18 16:28:25,338 - root - INFO - Logging configured.
+2024-10-18 16:28:25,338 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:25,341 - root - INFO - Logging configured.
+2024-10-18 16:28:25,341 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:25,342 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:25,342 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:25,342 - root - INFO - Application exit.
+2024-10-18 16:28:25,342 - root - INFO - Application shutdown.
+2024-10-18 16:28:25,344 - root - INFO - Logging configured.
+2024-10-18 16:28:25,344 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:25,345 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:25,345 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:25,345 - root - INFO - Application exit.
+2024-10-18 16:28:25,345 - root - INFO - Application shutdown.
+2024-10-18 16:28:25,348 - root - INFO - Logging configured.
+2024-10-18 16:28:25,348 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:25,349 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:25,349 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:25,349 - root - INFO - Hello, World!
+2024-10-18 16:28:25,349 - root - INFO - Application exit.
+2024-10-18 16:28:25,349 - root - INFO - Application shutdown.
+2024-10-18 16:28:34,700 - root - INFO - Logging configured.
+2024-10-18 16:28:34,700 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:34,706 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:34,706 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:38,032 - root - INFO - Application exit.
+2024-10-18 16:28:38,032 - root - INFO - Application shutdown.
+2024-10-18 16:28:51,570 - root - INFO - Logging configured.
+2024-10-18 16:28:51,571 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:51,574 - root - INFO - Logging configured.
+2024-10-18 16:28:51,574 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:51,575 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:51,575 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:51,575 - root - INFO - Application exit.
+2024-10-18 16:28:51,576 - root - INFO - Application shutdown.
+2024-10-18 16:28:51,579 - root - INFO - Logging configured.
+2024-10-18 16:28:51,579 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:51,579 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:51,579 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:51,579 - root - INFO - Application exit.
+2024-10-18 16:28:51,580 - root - INFO - Application shutdown.
+2024-10-18 16:28:51,583 - root - INFO - Logging configured.
+2024-10-18 16:28:51,583 - root - INFO - Environment variables loaded.
+2024-10-18 16:28:51,584 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:28:51,584 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:28:51,584 - root - INFO - Hello, World!
+2024-10-18 16:28:51,584 - root - INFO - Application exit.
+2024-10-18 16:28:51,584 - root - INFO - Application shutdown.
+2024-10-18 16:40:43,217 - root - INFO - Logging configured.
+2024-10-18 16:40:43,219 - root - INFO - Environment variables loaded.
+2024-10-18 16:40:43,222 - root - INFO - Logging configured.
+2024-10-18 16:40:43,222 - root - INFO - Environment variables loaded.
+2024-10-18 16:40:43,223 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:40:43,223 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:40:43,223 - root - INFO - Application exit.
+2024-10-18 16:40:43,224 - root - INFO - Application shutdown.
+2024-10-18 16:40:43,227 - root - INFO - Logging configured.
+2024-10-18 16:40:43,227 - root - INFO - Environment variables loaded.
+2024-10-18 16:40:43,227 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:40:43,227 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:40:43,227 - root - INFO - Application exit.
+2024-10-18 16:40:43,227 - root - INFO - Application shutdown.
+2024-10-18 16:40:43,230 - root - INFO - Logging configured.
+2024-10-18 16:40:43,230 - root - INFO - Environment variables loaded.
+2024-10-18 16:40:43,230 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:40:43,230 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:40:43,230 - root - INFO - Hello, World!
+2024-10-18 16:40:43,230 - root - INFO - Application exit.
+2024-10-18 16:40:43,230 - root - INFO - Application shutdown.
+2024-10-18 16:40:48,936 - root - INFO - Logging configured.
+2024-10-18 16:40:48,936 - root - INFO - Environment variables loaded.
+2024-10-18 16:40:48,938 - root - INFO - Logging configured.
+2024-10-18 16:40:48,938 - root - INFO - Environment variables loaded.
+2024-10-18 16:40:48,939 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:40:48,939 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:40:48,939 - root - INFO - Application exit.
+2024-10-18 16:40:48,939 - root - INFO - Application shutdown.
+2024-10-18 16:40:48,942 - root - INFO - Logging configured.
+2024-10-18 16:40:48,942 - root - INFO - Environment variables loaded.
+2024-10-18 16:40:48,942 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:40:48,942 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:40:48,942 - root - INFO - Application exit.
+2024-10-18 16:40:48,942 - root - INFO - Application shutdown.
+2024-10-18 16:40:48,945 - root - INFO - Logging configured.
+2024-10-18 16:40:48,945 - root - INFO - Environment variables loaded.
+2024-10-18 16:40:48,945 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:40:48,945 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:40:48,945 - root - INFO - Hello, World!
+2024-10-18 16:40:48,945 - root - INFO - Application exit.
+2024-10-18 16:40:48,945 - root - INFO - Application shutdown.
+2024-10-18 16:44:15,743 - root - INFO - Logging configured.
+2024-10-18 16:44:15,744 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:15,746 - root - INFO - Logging configured.
+2024-10-18 16:44:15,746 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:15,747 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:15,747 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:15,747 - root - INFO - Application exit.
+2024-10-18 16:44:15,748 - root - INFO - Application shutdown.
+2024-10-18 16:44:15,750 - root - INFO - Logging configured.
+2024-10-18 16:44:15,750 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:15,750 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:15,751 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:15,751 - root - INFO - Application exit.
+2024-10-18 16:44:15,751 - root - INFO - Application shutdown.
+2024-10-18 16:44:15,754 - root - INFO - Logging configured.
+2024-10-18 16:44:15,754 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:15,754 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:15,754 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:15,754 - root - INFO - Hello, World!
+2024-10-18 16:44:15,754 - root - INFO - Application exit.
+2024-10-18 16:44:15,754 - root - INFO - Application shutdown.
+2024-10-18 16:44:28,483 - root - INFO - Logging configured.
+2024-10-18 16:44:28,483 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:28,485 - root - INFO - Logging configured.
+2024-10-18 16:44:28,486 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:28,487 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:28,487 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:28,487 - root - INFO - Application exit.
+2024-10-18 16:44:28,487 - root - INFO - Application shutdown.
+2024-10-18 16:44:28,489 - root - INFO - Logging configured.
+2024-10-18 16:44:28,490 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:28,490 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:28,490 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:28,490 - root - INFO - Application exit.
+2024-10-18 16:44:28,490 - root - INFO - Application shutdown.
+2024-10-18 16:44:28,493 - root - INFO - Logging configured.
+2024-10-18 16:44:28,493 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:28,493 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:28,493 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:28,493 - root - INFO - Hello, World!
+2024-10-18 16:44:28,493 - root - INFO - Application exit.
+2024-10-18 16:44:28,494 - root - INFO - Application shutdown.
+2024-10-18 16:44:33,712 - root - INFO - Logging configured.
+2024-10-18 16:44:33,713 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:33,716 - root - INFO - Logging configured.
+2024-10-18 16:44:33,716 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:33,717 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:33,717 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:33,717 - root - INFO - Application exit.
+2024-10-18 16:44:33,717 - root - INFO - Application shutdown.
+2024-10-18 16:44:33,721 - root - INFO - Logging configured.
+2024-10-18 16:44:33,721 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:33,722 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:33,722 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:33,722 - root - INFO - Application exit.
+2024-10-18 16:44:33,722 - root - INFO - Application shutdown.
+2024-10-18 16:44:33,725 - root - INFO - Logging configured.
+2024-10-18 16:44:33,725 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:33,725 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:33,725 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:33,726 - root - INFO - Hello, World!
+2024-10-18 16:44:33,726 - root - INFO - Application exit.
+2024-10-18 16:44:33,726 - root - INFO - Application shutdown.
+2024-10-18 16:44:38,133 - root - INFO - Logging configured.
+2024-10-18 16:44:38,133 - root - INFO - Environment variables loaded.
+2024-10-18 16:44:38,139 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:44:38,139 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:44:44,640 - root - INFO - Application exit.
+2024-10-18 16:44:44,641 - root - INFO - Application shutdown.
+2024-10-18 16:47:04,273 - root - INFO - Logging configured.
+2024-10-18 16:47:04,274 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:04,277 - root - INFO - Logging configured.
+2024-10-18 16:47:04,277 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:04,278 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:04,278 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:04,278 - root - INFO - Application exit.
+2024-10-18 16:47:04,278 - root - INFO - Application shutdown.
+2024-10-18 16:47:04,282 - root - INFO - Logging configured.
+2024-10-18 16:47:04,282 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:04,283 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:04,283 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:04,283 - root - INFO - Application exit.
+2024-10-18 16:47:04,283 - root - INFO - Application shutdown.
+2024-10-18 16:47:04,286 - root - INFO - Logging configured.
+2024-10-18 16:47:04,286 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:04,287 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:04,287 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:04,287 - root - INFO - Hello, World!
+2024-10-18 16:47:04,287 - root - INFO - Application exit.
+2024-10-18 16:47:04,287 - root - INFO - Application shutdown.
+2024-10-18 16:47:07,361 - root - INFO - Logging configured.
+2024-10-18 16:47:07,362 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:07,364 - root - INFO - Logging configured.
+2024-10-18 16:47:07,364 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:07,364 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:07,365 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:07,365 - root - INFO - Application exit.
+2024-10-18 16:47:07,365 - root - INFO - Application shutdown.
+2024-10-18 16:47:07,367 - root - INFO - Logging configured.
+2024-10-18 16:47:07,367 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:07,368 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:07,368 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:07,368 - root - INFO - Application exit.
+2024-10-18 16:47:07,368 - root - INFO - Application shutdown.
+2024-10-18 16:47:07,371 - root - INFO - Logging configured.
+2024-10-18 16:47:07,371 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:07,372 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:07,372 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:07,372 - root - INFO - Hello, World!
+2024-10-18 16:47:07,372 - root - INFO - Application exit.
+2024-10-18 16:47:07,372 - root - INFO - Application shutdown.
+2024-10-18 16:47:12,058 - root - INFO - Logging configured.
+2024-10-18 16:47:12,059 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:12,062 - root - INFO - Logging configured.
+2024-10-18 16:47:12,063 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:12,063 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:12,064 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:12,064 - root - INFO - Application exit.
+2024-10-18 16:47:12,064 - root - INFO - Application shutdown.
+2024-10-18 16:47:12,068 - root - INFO - Logging configured.
+2024-10-18 16:47:12,068 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:12,068 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:12,069 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:12,069 - root - INFO - Application exit.
+2024-10-18 16:47:12,069 - root - INFO - Application shutdown.
+2024-10-18 16:47:12,073 - root - INFO - Logging configured.
+2024-10-18 16:47:12,073 - root - INFO - Environment variables loaded.
+2024-10-18 16:47:12,073 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 16:47:12,073 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 16:47:12,073 - root - INFO - Hello, World!
+2024-10-18 16:47:12,074 - root - INFO - Application exit.
+2024-10-18 16:47:12,074 - root - INFO - Application shutdown.
+2024-10-18 17:04:54,429 - root - INFO - Logging configured.
+2024-10-18 17:04:54,431 - root - INFO - Environment variables loaded.
+2024-10-18 17:04:54,437 - root - INFO - Logging configured.
+2024-10-18 17:04:54,438 - root - INFO - Environment variables loaded.
+2024-10-18 17:04:54,441 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:04:54,441 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:04:54,441 - root - INFO - Application exit.
+2024-10-18 17:04:54,441 - root - INFO - Application shutdown.
+2024-10-18 17:04:54,449 - root - INFO - Logging configured.
+2024-10-18 17:04:54,449 - root - INFO - Environment variables loaded.
+2024-10-18 17:04:54,450 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:04:54,450 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:04:54,451 - root - INFO - Application exit.
+2024-10-18 17:04:54,451 - root - INFO - Application shutdown.
+2024-10-18 17:04:54,459 - root - INFO - Logging configured.
+2024-10-18 17:04:54,460 - root - INFO - Environment variables loaded.
+2024-10-18 17:04:54,461 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:04:54,461 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:04:54,461 - root - INFO - Hello, World!
+2024-10-18 17:04:54,461 - root - INFO - Application exit.
+2024-10-18 17:04:54,462 - root - INFO - Application shutdown.
+2024-10-18 17:05:41,099 - root - INFO - Logging configured.
+2024-10-18 17:05:41,099 - root - INFO - Environment variables loaded.
+2024-10-18 17:05:41,102 - root - INFO - Logging configured.
+2024-10-18 17:05:41,102 - root - INFO - Environment variables loaded.
+2024-10-18 17:05:41,103 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:05:41,103 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:05:41,104 - root - INFO - Application exit.
+2024-10-18 17:05:41,104 - root - INFO - Application shutdown.
+2024-10-18 17:05:41,108 - root - INFO - Logging configured.
+2024-10-18 17:05:41,109 - root - INFO - Environment variables loaded.
+2024-10-18 17:05:41,109 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:05:41,109 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:05:41,109 - root - INFO - Application exit.
+2024-10-18 17:05:41,109 - root - INFO - Application shutdown.
+2024-10-18 17:05:41,117 - root - INFO - Logging configured.
+2024-10-18 17:05:41,118 - root - INFO - Environment variables loaded.
+2024-10-18 17:05:41,118 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:05:41,118 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:05:41,118 - root - INFO - Hello, World!
+2024-10-18 17:05:41,118 - root - INFO - Application exit.
+2024-10-18 17:05:41,118 - root - INFO - Application shutdown.
+2024-10-18 17:05:48,025 - root - INFO - Logging configured.
+2024-10-18 17:05:48,026 - root - INFO - Environment variables loaded.
+2024-10-18 17:05:48,032 - root - INFO - Logging configured.
+2024-10-18 17:05:48,032 - root - INFO - Environment variables loaded.
+2024-10-18 17:05:48,034 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:05:48,034 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:05:48,034 - root - INFO - Application exit.
+2024-10-18 17:05:48,035 - root - INFO - Application shutdown.
+2024-10-18 17:05:48,041 - root - INFO - Logging configured.
+2024-10-18 17:05:48,043 - root - INFO - Environment variables loaded.
+2024-10-18 17:05:48,044 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:05:48,045 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:05:48,045 - root - INFO - Application exit.
+2024-10-18 17:05:48,045 - root - INFO - Application shutdown.
+2024-10-18 17:05:48,050 - root - INFO - Logging configured.
+2024-10-18 17:05:48,051 - root - INFO - Environment variables loaded.
+2024-10-18 17:05:48,051 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:05:48,051 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:05:48,051 - root - INFO - Hello, World!
+2024-10-18 17:05:48,052 - root - INFO - Application exit.
+2024-10-18 17:05:48,052 - root - INFO - Application shutdown.
+2024-10-18 17:06:17,409 - root - INFO - Logging configured.
+2024-10-18 17:06:17,410 - root - INFO - Environment variables loaded.
+2024-10-18 17:06:17,422 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:06:17,422 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:06:20,328 - root - INFO - Application exit.
+2024-10-18 17:06:20,328 - root - INFO - Application shutdown.
+2024-10-18 17:06:23,306 - root - INFO - Logging configured.
+2024-10-18 17:06:23,306 - root - INFO - Environment variables loaded.
+2024-10-18 17:06:23,312 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:06:23,312 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:06:26,181 - root - INFO - Application exit.
+2024-10-18 17:06:26,182 - root - INFO - Application shutdown.
+2024-10-18 17:06:28,360 - root - INFO - Logging configured.
+2024-10-18 17:06:28,360 - root - INFO - Environment variables loaded.
+2024-10-18 17:06:28,367 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:06:28,368 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:06:30,778 - root - INFO - Application exit.
+2024-10-18 17:06:30,778 - root - INFO - Application shutdown.
+2024-10-18 17:11:21,293 - root - INFO - Logging configured.
+2024-10-18 17:11:21,295 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:21,298 - root - INFO - Logging configured.
+2024-10-18 17:11:21,299 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:21,300 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:21,301 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:21,301 - root - INFO - Application exit.
+2024-10-18 17:11:21,301 - root - INFO - Application shutdown.
+2024-10-18 17:11:21,311 - root - INFO - Logging configured.
+2024-10-18 17:11:21,312 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:21,312 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:21,312 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:21,313 - root - INFO - Application exit.
+2024-10-18 17:11:21,313 - root - INFO - Application shutdown.
+2024-10-18 17:11:21,331 - root - INFO - Logging configured.
+2024-10-18 17:11:21,333 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:21,333 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:21,334 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:21,334 - root - INFO - Hello, World!
+2024-10-18 17:11:21,334 - root - INFO - Application exit.
+2024-10-18 17:11:21,334 - root - INFO - Application shutdown.
+2024-10-18 17:11:26,715 - root - INFO - Logging configured.
+2024-10-18 17:11:26,716 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:26,721 - root - INFO - Logging configured.
+2024-10-18 17:11:26,722 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:26,723 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:26,723 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:26,723 - root - INFO - Application exit.
+2024-10-18 17:11:26,723 - root - INFO - Application shutdown.
+2024-10-18 17:11:26,728 - root - INFO - Logging configured.
+2024-10-18 17:11:26,729 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:26,729 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:26,729 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:26,730 - root - INFO - Application exit.
+2024-10-18 17:11:26,730 - root - INFO - Application shutdown.
+2024-10-18 17:11:26,736 - root - INFO - Logging configured.
+2024-10-18 17:11:26,737 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:26,737 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:26,737 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:26,738 - root - INFO - Hello, World!
+2024-10-18 17:11:26,738 - root - INFO - Application exit.
+2024-10-18 17:11:26,738 - root - INFO - Application shutdown.
+2024-10-18 17:11:30,633 - root - INFO - Logging configured.
+2024-10-18 17:11:30,634 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:30,640 - root - INFO - Logging configured.
+2024-10-18 17:11:30,641 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:30,643 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:30,643 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:30,643 - root - INFO - Application exit.
+2024-10-18 17:11:30,644 - root - INFO - Application shutdown.
+2024-10-18 17:11:30,651 - root - INFO - Logging configured.
+2024-10-18 17:11:30,652 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:30,652 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:30,653 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:30,653 - root - INFO - Application exit.
+2024-10-18 17:11:30,653 - root - INFO - Application shutdown.
+2024-10-18 17:11:30,661 - root - INFO - Logging configured.
+2024-10-18 17:11:30,662 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:30,662 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:30,663 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:30,663 - root - INFO - Hello, World!
+2024-10-18 17:11:30,663 - root - INFO - Application exit.
+2024-10-18 17:11:30,663 - root - INFO - Application shutdown.
+2024-10-18 17:11:33,469 - root - INFO - Logging configured.
+2024-10-18 17:11:33,469 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:33,475 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:33,476 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:36,450 - root - INFO - Application exit.
+2024-10-18 17:11:36,450 - root - INFO - Application shutdown.
+2024-10-18 17:11:40,216 - root - INFO - Logging configured.
+2024-10-18 17:11:40,216 - root - INFO - Environment variables loaded.
+2024-10-18 17:11:40,222 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-18 17:11:40,223 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-18 17:11:42,215 - root - INFO - Application exit.
+2024-10-18 17:11:42,216 - root - INFO - Application shutdown.
